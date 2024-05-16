@@ -1,6 +1,7 @@
-# ¡Hola! Soy Fabian Ciceia 👋
 
-## 👨🏻‍💻 Sobre mí
+<h1 align="center">¡Hola! Soy Fabian Ciceia 👋</h1>
+
+### 👨🏻‍💻 Sobre mí
 
 ¡Bienvenido a mi perfil de GitHub! Soy un programador full stack graduado de Coding Dojo con formación en Ingeniería Electrónica. Destaco por mi capacidad para trabajar en equipo y mantener un ambiente respetuoso. Mi objetivo es ampliar mi campo laboral y alcanzar un nivel profesional destacado como programador MERN.
 
