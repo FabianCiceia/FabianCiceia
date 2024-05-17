@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! Soy Fabian Ciceia 👋</h1>
 
-### 👨🏻‍💻 Sobre mí
+## 👨🏻‍💻 Sobre mí
 
 ¡Bienvenido a mi perfil de GitHub! Soy un programador full stack graduado de Coding Dojo con formación en Ingeniería Electrónica. Destaco por mi capacidad para trabajar en equipo y mantener un ambiente respetuoso. Mi objetivo es ampliar mi campo laboral y alcanzar un nivel profesional destacado como programador MERN.
 
@@ -14,7 +14,7 @@
 ![Node](https://img.shields.io/badge/Node-%74e416.svg?style=for-the-badge&logo=nodedotjs&logoColor=%fdfdfd)&nbsp;
 
 
-## 🌟  &nbsp; Tecnologías que manejo
+### 🌟  &nbsp; Tecnologías que manejo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
